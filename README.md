@@ -19,6 +19,10 @@ The communication protocol is named [NDSI](https://github.com/pupil-labs/pyndsi/
 - Google Nexus 5x
 - potentially other USB-C phones (untested)
 
+## Hardware With Limited Support
+
+- Xiaomi mi5: Users report problems with H264 transcoding
+
 ## I found a bug or need a feature!
 
 Please existing issues or open a new [issue](https://github.com/pupil-labs/pupil-mobile-app/issues). This app is in Alpha state, help us make it better.
