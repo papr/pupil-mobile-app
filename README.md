@@ -17,6 +17,7 @@ The communication protocol is named [NDSI](https://github.com/pupil-labs/pyndsi/
 - OnePlus 3
 - Google Nexus 6p
 - Google Nexus 5x
+- Xiaomi mi5 (Users reported issues with h264 transcoding)
 - potentially other USB-C phones (untested)
 
 ## I found a bug or need a feature!
